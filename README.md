@@ -1,4 +1,4 @@
-# <img src="https://media.tenor.com/GvP5WfH4AKgAAAAj/bee-minecraft.gif" width="60" style="vertical-align: middle;" alt="Abeja"> Ejercicio 1: Ejecución Secuencial - Recolección de Néctar
+# <img src="https://media.tenor.com/GvP5WfH4AKgAAAAj/bee-minecraft.gif" width="40" style="vertical-align: middle;" alt="Abeja"> Ejercicio 1: Ejecución Secuencial - Recolección de Néctar
 
 
 
