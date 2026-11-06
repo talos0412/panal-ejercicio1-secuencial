@@ -14,16 +14,19 @@ Una única abeja obrera (`Abeja Obrera #1`) debe recolectar néctar de tres flor
 
 1. Clonar el repositorio y acceder al directorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/talos0412/panal-ejercicio1-secuencial.git
    cd ejercicio1-secuencial
-  
+   ```
+
 2. Iniciar el contenedor:
    ```
    docker compose up
+   ```
 
 3. Detener y eliminar el contenedor al finalizar:
    ```
    docker compose down
+   ```
 
 ## Salida esperada en el contenedor:
 
@@ -36,3 +39,4 @@ Abeja Obrera #1 ha terminado de recolectar néctar de la Girasol.
 Abeja Obrera #1 está recolectando néctar de la Tulipán.
 Abeja Obrera #1 ha terminado de recolectar néctar de la Tulipán.
 Tiempo total de recolección: 6.00 segundos.
+```
